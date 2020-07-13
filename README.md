@@ -1,5 +1,12 @@
 # Detect-you-
  A simple Convolution Neural Network using Keras deep learning library to detect “you” whenever you are in front of your laptop.
+ 
+ **capturing_images.py** : This is used to create our own dataset of our images for our model.
+ 
+ **run model.py** : Here comes the actual CNN model and it also saves the model as *model.h5* file.
+ 
+ **detect_me(open_cv).py** : Here I used OpenCV to get access of our web-cam and test our model.
+ 
 ### My environment details:
 
 > Windows 10
@@ -28,3 +35,5 @@
 
 5) Finally, to see your outpyt running the detect_me(open_cv).py file.
 
+### CNN Model Architecture:
+![](Images/detect_you.png)
