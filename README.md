@@ -1,5 +1,5 @@
 # Detect-you-
- A simple Convolution Neural Network using Keras deep learning library to detect “you” whenever you are in front of your laptop.
+ A simple Convolution Neural Network using Keras deep learning library to detect “you” whenever you are in front of your laptop. For more information please refer my website here https://mlprojectshub.blogspot.com/2020/07/a-convolution-neural-network-application.html
  
  **capturing_images.py** : This is used to create our own dataset of our images for our model.
  
